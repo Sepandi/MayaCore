@@ -1,0 +1,11 @@
+[Maya-Core-Project]
+PROJECT_NAME = game
+MAIN_CLASS = Main
+ENGINE_DIR = Maya/Core
+BIN_DIR = Bin
+ASSETS_DIR = Data
+
+[Java-Settings]
+JAVA_PATH = java
+RUNTIME_ARGS =
+COMPILE_TIME_ARGS =
